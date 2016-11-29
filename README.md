@@ -1,4 +1,6 @@
 # xhfcb
 for some reason
-must clear old file all
+
+must clear old files all
+
 rebuild
